@@ -1,10 +1,15 @@
+## 599 First Exercise - Univariate Case
+
+### Zhiyi Wang
+
+### Sorry for my R-Studio itself, there is no way for me to knit to HTML showing the results/pictures.
 ---
 title: "Exercise-uni"
 author: "Zhiyi Wang"
 output: html_document
 ---
 
-```{r,eval=TRUE}
+```{r,eval=FALSE}
 link='https://github.com/EvansDataScience/VisualAnalytics_2_tabularData/raw/master/data/eduwa.rda'
 
 load(file=url(link))
